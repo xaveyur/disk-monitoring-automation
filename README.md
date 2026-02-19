@@ -1,0 +1,1 @@
+Disk Monitor - A lightweight Python script that monitors disk usage, logs system health metrics, and triggers alerts when usage exceeds a configured threshold. This tool was made using cron-based automation and was made with the intention of monitoring and logging storage capacity, which can be very easily overlooked when maintaining the upkeep of a device.

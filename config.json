@@ -1,0 +1,5 @@
+{
+    "threshold_percent": 80,
+    "paths": ["/"],
+    "log_file": "logs/disk_monitor.log"
+  }
